@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Make Sketch</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="tap_anywhere">Tap anywhere to open a Photo</string>
+    <string name="brush">Brush</string>
+    <string name="eraser">Eraser</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="opacity">Opacity</string>
+    <string name="size">Size</string>
+    <string name="done">Done</string>
+    <string name="share">Share</string>
+    <string name="share_image">Share Image</string>
+    <string name="are_you">Are you sure you want to share this image?</string>
+</resources>
